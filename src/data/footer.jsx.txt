@@ -1,0 +1,159 @@
+<footer><style id="elementor-post-1098">.elementor-1098 .elementor-element.elementor-element-6bbd41e{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--overflow:hidden;--margin-top:0px;--margin-bottom:0px;--margin-left:0px;--margin-right:0px;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-1098 .elementor-element.elementor-element-6bbd41e:not(.elementor-motion-effects-element-type-background), .elementor-1098 .elementor-element.elementor-element-6bbd41e > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#01003D;}.elementor-1098 .elementor-element.elementor-element-4b4c392{--display:flex;}.elementor-1098 .elementor-element.elementor-element-7a7bb64 .label{color:#FFFFFF;font-size:12px;}.elementor-1098 .elementor-element.elementor-element-7a7bb64 .box-text, .elementor-1098 .elementor-element.elementor-element-7a7bb64 .box-text a, .elementor-1098 .elementor-element.elementor-element-7a7bb64 .box-text span{color:#FFFFFF;font-size:14px;}.elementor-1098 .elementor-element.elementor-element-953ab14{--display:flex;--flex-direction:row;--container-widget-width:initial;--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;--justify-content:space-between;--padding-top:100px;--padding-bottom:48px;--padding-left:0px;--padding-right:0px;}.elementor-1098 .elementor-element.elementor-element-c5d6f05 > .elementor-widget-container{margin:0px 0px 0px 0px;padding:0px 12px 0px 12px;}.elementor-1098 .elementor-element.elementor-element-8e3fc7b > .elementor-widget-container{margin:0px 0px 0px 0px;padding:0px 12px 0px 12px;}.elementor-1098 .elementor-element.elementor-element-c7fa0b1 > .elementor-widget-container{margin:0px 0px 0px 0px;padding:50px 12px 0px 12px;}.elementor-1098 .elementor-element.elementor-element-a684744 > .elementor-widget-container{margin:0px 0px 0px 0px;padding:0px 12px 0px 12px;}.elementor-1098 .elementor-element.elementor-element-d43fabc{--display:flex;--flex-direction:row;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;--justify-content:space-between;--align-items:center;border-style:solid;--border-style:solid;border-width:1px 0px 0px 0px;--border-top-width:1px;--border-right-width:0px;--border-bottom-width:0px;--border-left-width:0px;border-color:#FFFFFF33;--border-color:#FFFFFF33;--padding-top:22px;--padding-bottom:22px;--padding-left:0px;--padding-right:0px;}.elementor-1098 .elementor-element.elementor-element-ed6bb39 > .elementor-widget-container{margin:0px 0px 0px 0px;padding:0px 12px 0px 12px;}@media(max-width:1024px){.elementor-1098 .elementor-element.elementor-element-953ab14{--flex-wrap:wrap;--padding-top:80px;--padding-bottom:30px;--padding-left:24px;--padding-right:24px;}.elementor-1098 .elementor-element.elementor-element-c5d6f05{width:var( --container-widget-width, 47% );max-width:47%;--container-widget-width:47%;--container-widget-flex-grow:0;}.elementor-1098 .elementor-element.elementor-element-8e3fc7b{width:var( --container-widget-width, 47% );max-width:47%;--container-widget-width:47%;--container-widget-flex-grow:0;}.elementor-1098 .elementor-element.elementor-element-c7fa0b1{width:var( --container-widget-width, 47% );max-width:47%;--container-widget-width:47%;--container-widget-flex-grow:0;}.elementor-1098 .elementor-element.elementor-element-a684744{width:var( --container-widget-width, 47% );max-width:47%;--container-widget-width:47%;--container-widget-flex-grow:0;}.elementor-1098 .elementor-element.elementor-element-d43fabc{--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--justify-content:space-between;--gap:10px 10px;--row-gap:10px;--column-gap:10px;--flex-wrap:wrap;--padding-top:22px;--padding-bottom:22px;--padding-left:24px;--padding-right:24px;}}@media(max-width:767px){.elementor-1098 .elementor-element.elementor-element-953ab14{--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--padding-top:80px;--padding-bottom:30px;--padding-left:0px;--padding-right:0px;}.elementor-1098 .elementor-element.elementor-element-c5d6f05{width:100%;max-width:100%;}.elementor-1098 .elementor-element.elementor-element-8e3fc7b{width:100%;max-width:100%;}.elementor-1098 .elementor-element.elementor-element-c7fa0b1{width:100%;max-width:100%;}.elementor-1098 .elementor-element.elementor-element-a684744{width:100%;max-width:100%;}.elementor-1098 .elementor-element.elementor-element-d43fabc{--padding-top:22px;--padding-bottom:22px;--padding-left:0px;--padding-right:0px;}}</style>		<div data-elementor-type="wp-post" data-elementor-id="1098" className="elementor elementor-1098">
+				<div className="elementor-element elementor-element-6bbd41e footer-wrapper footer-layout5 e-con-full e-flex e-con e-parent" data-id="6bbd41e" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+		<div className="elementor-element elementor-element-4b4c392 e-con-full e-flex e-con e-child" data-id="4b4c392" data-element_type="container" data-e-type="container">
+				<div className="elementor-element elementor-element-7a7bb64 elementor-widget elementor-widget-rakarcontactinfo" data-id="7a7bb64" data-element_type="widget" data-e-type="widget" data-widget_type="rakarcontactinfo.default">
+				<div className="elementor-widget-container">
+					<div className="footer-contact-area style-black"><div className="container"><div className="footer-contact-wrap"><div className="footer-contact"><div className="box-icon"><i className="fas fa-location-dot"></i></div><div className="media-body"><p className="box-text"><a href="https://maps.app.goo.gl/5bMqkGpNXNo1K9yC7" target="_blank">Al Qusais Industrial Area-3, Dubai, UAE</a>
+</p></div></div><div className="divider"></div><div className="footer-contact"><div className="box-icon"><i className="fas fa-phone-volume"></i></div><div className="media-body"><h3 className="box-title label">Call Us:</h3><p className="box-text"><a href="tel:+97143200869">+971 4 320 0869</a></p></div></div><div className="divider"></div><div className="footer-contact"><div className="box-icon"><i className="fas fa-envelope"></i></div><div className="media-body"><h3 className="box-title label">Email Us:</h3><p className="box-text"><a href="mailto:admin@profeneng.com">admin@profeneng.com</a></p></div></div></div></div></div>				</div>
+				</div>
+				</div>
+		<div className="elementor-element elementor-element-953ab14 e-flex e-con-boxed e-con e-child" data-id="953ab14" data-element_type="container" data-e-type="container">
+					<div className="e-con-inner">
+				<div className="elementor-element elementor-element-c5d6f05 elementor-widget-tablet__width-initial elementor-widget-mobile__width-inherit elementor-widget elementor-widget-rakarfooterwidgets" data-id="c5d6f05" data-element_type="widget" data-e-type="widget" data-widget_type="rakarfooterwidgets.default">
+				<div className="elementor-widget-container">
+					<div className="widget footer-widget"><div className="th-widget-about"><div className="about-logo"><a href="index.html"><img src="wp-content/uploads/2024/07/logo_pe-new-wh-70.png" alt="logo_pe new wh 70"  /></a></div><p className="about-text desc">Profen Engineering, your trusted partner in comprehensive Sustainability, MEP &amp; Construction Services.</p><div className="th-social"><a  rel="nofollow" href="https://www.facebook.com"><i aria-hidden="true" className="fab fa-facebook-f"></i></a> <a  rel="nofollow" href="https://www.twitter.com"><i aria-hidden="true" className="fab fa-twitter"></i></a> <a  rel="nofollow" href="https://www.instagram.com"><i aria-hidden="true" className="fab fa-instagram"></i></a> <a  rel="nofollow" href="https://www.linkedin.com"><i aria-hidden="true" className="fab fa-linkedin-in"></i></a> </div></div></div> 				</div>
+				</div>
+				<div className="elementor-element elementor-element-8e3fc7b elementor-widget-tablet__width-initial elementor-widget-mobile__width-inherit elementor-widget elementor-widget-rakarmenuselect" data-id="8e3fc7b" data-element_type="widget" data-e-type="widget" data-widget_type="rakarmenuselect.default">
+				<div className="elementor-widget-container">
+					<div className="widget widget_nav_menu footer-widget"><h3 className="widget_title"><img src="index.html" alt=""  />Our Services</h3><div className="menu-all-pages-container"><ul id="menu-our-services" className="menu style2"><li id="menu-item-155" className="menu-item menu-item-type-custom menu-item-object-custom menu-item-155"><a href="service/index.html">Electro-Mechanical Works</a></li>
+<li id="menu-item-156" className="menu-item menu-item-type-custom menu-item-object-custom menu-item-156"><a href="service/index.html">Landscaping &#038; Fencing Works</a></li>
+<li id="menu-item-157" className="menu-item menu-item-type-custom menu-item-object-custom menu-item-157"><a href="service/index.html">Building Contracting Works</a></li>
+<li id="menu-item-158" className="menu-item menu-item-type-custom menu-item-object-custom menu-item-158"><a href="service/index.html">Interior &#038; Fit-Out Works</a></li>
+</ul></div></div>				</div>
+				</div>
+				<div className="elementor-element elementor-element-c7fa0b1 elementor-widget-tablet__width-initial elementor-widget-mobile__width-inherit elementor-widget elementor-widget-rakarmenuselect" data-id="c7fa0b1" data-element_type="widget" data-e-type="widget" data-widget_type="rakarmenuselect.default">
+				<div className="elementor-widget-container">
+					<div className="widget widget_nav_menu footer-widget"><div className="menu-all-pages-container"><ul id="menu-services" className="menu style2"><li id="menu-item-2461" className="menu-item menu-item-type-custom menu-item-object-custom menu-item-2461"><a href="service/index.html">Metal Construction &#038; Fabrications</a></li>
+<li id="menu-item-2462" className="menu-item menu-item-type-custom menu-item-object-custom menu-item-2462"><a href="service/index.html">Chiller Hot &#038; Cool Solutions</a></li>
+<li id="menu-item-2463" className="menu-item menu-item-type-custom menu-item-object-custom menu-item-2463"><a href="service/index.html">Misting Solutions</a></li>
+<li id="menu-item-2464" className="menu-item menu-item-type-custom menu-item-object-custom menu-item-2464"><a href="service/index.html">Adiabatic Pre-Cooling System</a></li>
+</ul></div></div>				</div>
+				</div>
+				<div className="elementor-element elementor-element-a684744 elementor-widget-tablet__width-initial elementor-widget-mobile__width-inherit elementor-widget elementor-widget-rakarmenuselect" data-id="a684744" data-element_type="widget" data-e-type="widget" data-widget_type="rakarmenuselect.default">
+				<div className="elementor-widget-container">
+					<div className="widget widget_nav_menu footer-widget"><h3 className="widget_title"><img src="index.html" alt=""  />Useful Links</h3><div className="menu-all-pages-container"><ul id="menu-footermenu" className="menu style2"><li id="menu-item-3247" className="menu-item menu-item-type-post_type menu-item-object-page menu-item-3247"><a href="about/index.html">About Profen Engineering</a></li>
+<li id="menu-item-3248" className="menu-item menu-item-type-post_type menu-item-object-page menu-item-3248"><a href="service/index.html">Our Services</a></li>
+<li id="menu-item-3249" className="menu-item menu-item-type-post_type menu-item-object-page menu-item-3249"><a href="project/index.html">Our Projects</a></li>
+<li id="menu-item-3250" className="menu-item menu-item-type-post_type menu-item-object-page menu-item-3250"><a href="contact/index.html">Reach Us</a></li>
+</ul></div></div>				</div>
+				</div>
+				<div className="elementor-element elementor-element-32890cd elementor-widget elementor-widget-shortcode" data-id="32890cd" data-element_type="widget" data-e-type="widget" data-widget_type="shortcode.default">
+				<div className="elementor-widget-container">
+							<div className="elementor-shortcode">
+            <div 
+                className="elfsight-widget-whatsapp-chat elfsight-widget" 
+                data-elfsight-whatsapp-chat-options="%7B%22facebookSubgoup%22%3Anull%2C%22whatsappSubgoup%22%3Anull%2C%22telegramSubgoup%22%3Anull%2C%22viberSubgoup%22%3Anull%2C%22rumbletalkSubgoup%22%3Anull%2C%22divider-1%22%3Anull%2C%22userAccessToken%22%3Anull%2C%22page%22%3Anull%2C%22phone%22%3A%22971564148980%22%2C%22link%22%3Anull%2C%22userAccessTokenBubbleSubgroup%22%3Anull%2C%22bubbleIcon%22%3A%22whatsapp-chat%22%2C%22bubbleText%22%3Anull%2C%22picture%22%3A%22custom%22%2C%22pictureLibrary%22%3A%7B%22photo%22%3A%22https%3A%5C%2F%5C%2Fpbs.twimg.com%5C%2Fprofile_images%5C%2F951055655594545153%5C%2FF6eybr-i.jpg%22%7D%2C%22pictureCustom%22%3A%22https%3A%5C%2F%5C%2Fprofeneng.com%5C%2Fwp-content%5C%2Fuploads%5C%2F2026%5C%2F01%5C%2Fchatbot.png%22%2C%22name%22%3A%22Customer%20Service%22%2C%22nameCaptionType%22%3A%22custom%22%2C%22nameCaptionReplyTime%22%3A%22Typically%20replies%20within%20a%20day%22%2C%22nameCaptionCustom%22%3A%22Online%22%2C%22welcomeMessage%22%3A%22Hi%20%5Cud83d%5Cudc4b%3Cbr%3E%3Cbr%3EHow%20can%20I%20help%20you%3F%22%2C%22buttonText%22%3A%22Talk%20to%20Us%22%2C%22buttonIconVisible%22%3Atrue%2C%22position%22%3A%22floating%22%2C%22align%22%3A%22right%22%2C%22whereToDisplayChat%22%3A%22allPages%22%2C%22excludedPages%22%3A%5B%5D%2C%22specificPages%22%3A%5B%5D%2C%22devicesToDisplay%22%3A%5B%22mobile%22%2C%22desktop%22%5D%2C%22showChatTo%22%3A%22allVisitors%22%2C%22displayDays%22%3A%5B0%2C1%2C2%2C3%2C4%2C5%2C6%5D%2C%22timeSchedule%22%3Afalse%2C%22displayStartTime%22%3A%2200%3A00%22%2C%22displayEndTime%22%3A%2200%3A00%22%2C%22timeZone%22%3A0%2C%22timeOnPage%22%3A0%2C%22timeOnSite%22%3A0%2C%22scrollPosition%22%3A0%2C%22exiIntent%22%3Afalse%2C%22notifications%22%3A%5B%22bubbleBadge%22%2C%22tabTitle%22%5D%2C%22headerBackgroundColor%22%3A%22rgb%289%2C%2094%2C%2084%29%22%2C%22buttonColor%22%3A%22rgb%2879%2C%20206%2C%2093%29%22%2C%22bubbleBackgroundColor%22%3A%22rgb%28255%2C%20255%2C%20255%29%22%2C%22bubbleIconColor%22%3A%22rgb%2879%2C%20206%2C%2093%29%22%2C%22windowBackgroundColor%22%3A%22rgb%28230%2C%20221%2C%20212%29%22%2C%22windowBackgroundPattern%22%3A%22https%3A%5C%2F%5C%2Felfsight.com%5C%2Fassets%5C%2Fchats%5C%2Fpatterns%5C%2Fwhatsapp.png%22%2C%22buttonBorderRadius%22%3A20%2C%22widgetId%22%3A%221%22%7D" 
+                data-elfsight-whatsapp-chat-version="1.2.0"
+                data-elfsight-widget-id="elfsight-whatsapp-chat-1">
+            </div>
+            </div>
+						</div>
+				</div>
+					</div>
+				</div>
+		<div className="elementor-element elementor-element-d43fabc e-flex e-con-boxed e-con e-child" data-id="d43fabc" data-element_type="container" data-e-type="container">
+					<div className="e-con-inner">
+				<div className="elementor-element elementor-element-ed6bb39 elementor-widget elementor-widget-html" data-id="ed6bb39" data-element_type="widget" data-e-type="widget" data-widget_type="html.default">
+				<div className="elementor-widget-container">
+					 <p className="copyright-text">Copyright <i className="fal fa-copyright"></i> 2026 <a href="index.html">Profen Engineering LLC</a>. All Rights Reserved.</p>				</div>
+				</div>
+					</div>
+				</div>
+				</div>
+				</div>
+		</footer></div></div>                    <div className="scroll-top">
+                        <svg className="progress-circle svg-content" width="100%" height="100%" viewBox="-1 -1 102 102">
+                            <path d="M50,1 a49,49 0 0,1 0,98 a49,49 0 0,1 0,-98" style="transition: stroke-dashoffset 10ms linear 0s; stroke-dasharray: 307.919, 307.919; stroke-dashoffset: 307.919;">
+                            </path>
+                        </svg>
+                    </div>
+                <script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/rakar/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+			<script>
+				const lazyloadRunObserver = () => {
+					const lazyloadBackgrounds = document.querySelectorAll( `.e-con.e-parent:not(.e-lazyloaded)` );
+					const lazyloadBackgroundObserver = new IntersectionObserver( ( entries ) => {
+						entries.forEach( ( entry ) => {
+							if ( entry.isIntersecting ) {
+								let lazyloadBackground = entry.target;
+								if( lazyloadBackground ) {
+									lazyloadBackground.classList.add( 'e-lazyloaded' );
+								}
+								lazyloadBackgroundObserver.unobserve( entry.target );
+							}
+						});
+					}, { rootMargin: '200px 0px 200px 0px' } );
+					lazyloadBackgrounds.forEach( ( lazyloadBackground ) => {
+						lazyloadBackgroundObserver.observe( lazyloadBackground );
+					} );
+				};
+				const events = [
+					'DOMContentLoaded',
+					'elementor/lazyload/observe',
+				];
+				events.forEach( ( event ) => {
+					document.addEventListener( event, lazyloadRunObserver );
+				} );
+			</script>
+				<script>
+		(function () {
+			var c = document.body.className;
+			c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+			document.body.className = c;
+		})();
+	</script>
+	<link rel='stylesheet' id='wc-blocks-style-css' href='wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks.css%3Fver=wc-10.8.1.css' media='all' />
+<script id="wp-hooks-js" src="wp-includes/js/dist/hooks.min.js%3Fver=7496969728ca0f95732d"></script>
+<script id="wp-i18n-js" src="wp-includes/js/dist/i18n.min.js%3Fver=781d11515ad3d91786ec"></script>
+<script id="wp-i18n-js-after">
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+</script>
+<script id="swv-js" src="wp-content/plugins/contact-form-7/includes/swv/js/index.js%3Fver=6.1.6"></script>
+<script id="contact-form-7-js-before">
+var wpcf7 = {
+    "api": {
+        "root": "https:\/\/profeneng.com\/wp-json\/",
+        "namespace": "contact-form-7\/v1"
+    },
+    "cached": 1
+};
+</script>
+<script id="contact-form-7-js" src="wp-content/plugins/contact-form-7/includes/js/index.js%3Fver=6.1.6"></script>
+<script id="rakar-ajax-js-extra">
+var rakarajax = {"action_url":"/wp-admin/admin-ajax.php","nonce":"d8b0f4ce50"};
+</script>
+<script id="rakar-ajax-js" src="wp-content/plugins/rakar-core/assets/js/rakar.ajax.js%3Fver=1.0"></script>
+<script id="sourcebuster-js-js" src="wp-content/plugins/woocommerce/assets/js/sourcebuster/sourcebuster.min.js%3Fver=10.8.1"></script>
+<script id="wc-order-attribution-js-extra">
+var wc_order_attribution = {"params":{"lifetime":1.0000000000000000818030539140313095458623138256371021270751953125e-5,"session":30,"base64":false,"ajaxurl":"/wp-admin/admin-ajax.php","prefix":"wc_order_attribution_","allowTracking":true},"fields":{"source_type":"current.typ","referrer":"current_add.rf","utm_campaign":"current.cmp","utm_source":"current.src","utm_medium":"current.mdm","utm_content":"current.cnt","utm_id":"current.id","utm_term":"current.trm","utm_source_platform":"current.plt","utm_creative_format":"current.fmt","utm_marketing_tactic":"current.tct","session_entry":"current_add.ep","session_start_time":"current_add.fd","session_pages":"session.pgs","session_count":"udata.vst","user_agent":"udata.uag"}};
+</script>
+<script id="wc-order-attribution-js" src="wp-content/plugins/woocommerce/assets/js/frontend/order-attribution.min.js%3Fver=10.8.1"></script>
+<script id="elementor-webpack-runtime-js" src="wp-content/plugins/elementor/assets/js/webpack.runtime.min.js%3Fver=4.1.2"></script>
+<script id="elementor-frontend-modules-js" src="wp-content/plugins/elementor/assets/js/frontend-modules.min.js%3Fver=4.1.2"></script>
+<script id="jquery-ui-core-js" src="wp-includes/js/jquery/ui/core.min.js%3Fver=1.13.3"></script>
+<script id="elementor-frontend-js-before">
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close","a11yCarouselPrevSlideMessage":"Previous slide","a11yCarouselNextSlideMessage":"Next slide","a11yCarouselFirstSlideMessage":"This is the first slide","a11yCarouselLastSlideMessage":"This is the last slide","a11yCarouselPaginationBulletMessage":"Go to slide"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}},"hasCustomBreakpoints":false},"version":"4.1.2","is_static":false,"experimentalFeatures":{"e_font_icon_svg":true,"additional_custom_breakpoints":true,"container":true,"nested-elements":true,"global_classes_should_enforce_capabilities":true,"e_variables":true,"e_opt_in_v4_page":true,"e_components":true,"e_interactions":true,"e_widget_creation":true,"import-export-customization":true},"urls":{"assets":"https:\/\/profeneng.com\/wp-content\/plugins\/elementor\/assets\/","ajaxurl":"https:\/\/profeneng.com\/wp-admin\/admin-ajax.php","uploadUrl":"https:\/\/profeneng.com\/wp-content\/uploads"},"nonces":{"floatingButtonsClickTracking":"f6dc2d1eaa","atomicFormsSendForm":"54ed5551d2"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":23,"title":"Home%20-%20Profen%20Engineering%20%E2%80%93%20Building%20the%20Future%20with%20Integrity","excerpt":"","featuredImage":false}};
+</script>
+<script id="elementor-frontend-js" src="wp-content/plugins/elementor/assets/js/frontend.min.js%3Fver=4.1.2"></script>
+<script id="swiper-js" src="wp-content/plugins/elementor/assets/lib/swiper/v8/swiper.min.js%3Fver=8.4.5"></script>
+<script id="bootstrap-js" src="wp-content/themes/rakar/assets/js/bootstrap.min.js%3Fver=5.0.0"></script>
+<script id="swiper-js-js" src="wp-content/themes/rakar/assets/js/swiper-bundle.min.js%3Fver=1.0.0"></script>
+<script id="magnific-popup-js" src="wp-content/themes/rakar/assets/js/jquery.magnific-popup.min.js%3Fver=1.0.0"></script>
+<script id="counterup-js" src="wp-content/themes/rakar/assets/js/jquery.counterup.min.js%3Fver=4.0.0"></script>
+<script id="jquery-ui-mouse-js" src="wp-includes/js/jquery/ui/mouse.min.js%3Fver=1.13.3"></script>
+<script id="jquery-ui-slider-js" src="wp-includes/js/jquery/ui/slider.min.js%3Fver=1.13.3"></script>
+<script id="imagesloaded-js" src="wp-includes/js/imagesloaded.min.js%3Fver=5.0.0"></script>
+<script id="isototpe-pkgd-js" src="wp-content/themes/rakar/assets/js/isotope.pkgd.min.js%3Fver=1.0.0"></script>
+<script id="rakar-main-script-js" src="wp-content/themes/rakar/assets/js/main.js%3Fver=1.0.0"></script>
+<script id="elfsight-whatsapp-chat-js" src="wp-content/plugins/elfsight-whatsapp-chat-cc/assets/elfsight-whatsapp-chat.js%3Fver=1.2.0"></script>
+<script id="rakar-core-js" src="wp-content/plugins/rakar-core/assets/js/rakar-core.js%3Fver=1.0"></script>
+<script id="wp-emoji-settings" type="application/json">
+{"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"/wp-includes/js/wp-emoji-release.min.js?ver=7.0"}}
+</script>
+<script type="module">
+/*! This file is auto-generated */
+const a=JSON.parse(document.getElementById("wp-emoji-settings").textContent),o=(window._wpemojiSettings=a,"wpEmojiSettingsSupports"),s=["flag","emoji"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const a=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===a[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,a){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!a(e,"\ud83e\u1fac8")}return!1}function f(e,t,n,a){let r;const o=(r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement("canvas")).getContext("2d",{willReadFrequently:!0}),s=(o.textBaseline="top",o.font="600 32px Arial",{});return e.forEach(e=>{s[e]=t(o,e,n,a)}),s}function r(e){var t=document.createElement("script");t.src=e,t.defer=!0,document.head.appendChild(t)}a.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),c.toString(),p.toString()].join(",")+"));",a=new Blob([e],{type:"text/javascript"});const r=new Worker(URL.createObjectURL(a),{name:"wpTestEmojiSupports"});return void(r.onmessage=e=>{i(n=e.data),r.terminate(),t(n)})}catch(e){}i(n=f(s,u,c,p))}t(n)}).then(e=>{for(const n in e)a.supports[n]=e[n],a.supports.everything=a.supports.everything&&a.supports[n],"flag"!==n&&(a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&a.supports[n]);var t;a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&!a.supports.flag,a.supports.everything||((t=a.source||{}).concatemoji?r(t.concatemoji):t.wpemoji&&t.twemoji&&(r(t.twemoji),r(t.wpemoji)))});
+</script>
+</body>
+</html>

@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Profen Engineering – Building the Future with Integrity</title>
+    <style>
+        #preloader {
+            position: fixed; left: 0; right: 0; top: 0; bottom: 0;
+            z-index: 999999;
+            background-color: #101840;
+            transition: opacity 0.4s ease;
+        }
+        #preloader.fade-out { opacity: 0; pointer-events: none; }
+        .preloader-inner {
+            text-align: center; position: absolute; left: 50%; top: 50%;
+            transform: translate(-50%, -50%); line-height: 1;
+        }
+        #preloader .loader {
+            width: 48px; height: 48px;
+            background: #FA2D39;
+            display: block; margin: 20px auto;
+            position: relative; box-sizing: border-box;
+            animation: rotationBack 1s ease-in-out infinite reverse;
+        }
+        #preloader .loader::before {
+            content: ""; box-sizing: border-box;
+            left: 0; top: 0;
+            transform: rotate(45deg);
+            position: absolute; width: 48px; height: 48px;
+            background: #FA2D39;
+            box-shadow: 0 0 5px rgba(0,0,0,0.15);
+        }
+        #preloader .loader::after {
+            content: ""; box-sizing: border-box;
+            width: 32px; height: 32px; border-radius: 50%;
+            position: absolute; left: 50%; top: 50%;
+            background: #FFF;
+            transform: translate(-50%, -50%);
+            box-shadow: 0 0 5px rgba(0,0,0,0.15);
+        }
+        @keyframes rotationBack {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(-360deg); }
+        }
+    </style>
+    <script>
+        window.elementorFrontendConfig = {
+            environmentMode: { edit: false, wpPreview: false, isScriptDebug: false },
+            is_rtl: false,
+            breakpoints: { xs: 0, sm: 480, md: 768, lg: 1025, xl: 1440, xxl: 1600 },
+            responsive: {
+                breakpoints: {
+                    mobile: { label: 'Mobile Portrait', value: 767, default_value: 767, direction: 'max', is_enabled: true },
+                    mobile_extra: { label: 'Mobile Landscape', value: 880, default_value: 880, direction: 'max', is_enabled: false },
+                    tablet: { label: 'Tablet Portrait', value: 1024, default_value: 1024, direction: 'max', is_enabled: true },
+                    tablet_extra: { label: 'Tablet Landscape', value: 1200, default_value: 1200, direction: 'max', is_enabled: false },
+                    laptop: { label: 'Laptop', value: 1366, default_value: 1366, direction: 'max', is_enabled: false },
+                    widescreen: { label: 'Widescreen', value: 2400, default_value: 2400, direction: 'min', is_enabled: false },
+                },
+                hasCustomBreakpoints: false,
+            },
+            version: '4.1.2',
+            is_static: false,
+            experimentalFeatures: {
+                e_font_icon_svg: true, additional_custom_breakpoints: true, container: true,
+                'nested-elements': true, global_classes_should_enforce_capabilities: true,
+                e_variables: true, e_opt_in_v4_page: true, e_components: true,
+                e_interactions: true, e_widget_creation: true, 'import-export-customization': true,
+            },
+            urls: { assets: '/wp-content/plugins/elementor/assets/', ajaxurl: '', uploadUrl: '/wp-content/uploads' },
+            swiperClass: 'swiper',
+            settings: { page: [], editorPreferences: [] },
+            kit: { active_breakpoints: ['viewport_mobile', 'viewport_tablet'], lightbox_enable_counter: 'yes', lightbox_enable_fullscreen: 'yes', lightbox_enable_zoom: 'yes', lightbox_enable_share: 'yes', lightbox_title_src: 'title', lightbox_description_src: 'description' },
+            post: { id: 23, title: 'Home', excerpt: '', featuredImage: false },
+        }
+    </script>
+</head>
+<body>
+    <div id="preloader" class="preloader">
+        <div class="preloader-inner">
+            <div class="loader"></div>
+        </div>
+    </div>
+    <div id="root"></div>
+    <script type="module" src="/src/main.jsx"></script>
+    <script>
+        window.__removePreloader = function () {
+            var el = document.getElementById('preloader')
+            if (!el || el.classList.contains('fade-out')) return
+            el.classList.add('fade-out')
+            setTimeout(function () { if (el.parentNode) el.parentNode.removeChild(el) }, 400)
+        }
+    </script>
+</body>
+</html>

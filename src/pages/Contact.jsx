@@ -1,0 +1,9 @@
+import { useRef } from 'react'
+import contentHtml from '../data/contact-content.html?raw'
+import { useNavFix } from '../hooks/useNavFix'
+
+export default function Contact() {
+  const ref = useRef(null)
+  useNavFix(ref)
+  return <div ref={ref} dangerouslySetInnerHTML={{ __html: contentHtml }} />
+}
