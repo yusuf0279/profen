@@ -1,0 +1,21 @@
+:root {
+            --theme-color: rgb(255,0,0);
+            }.main-menu ul.sub-menu li a:before {
+                content: "\\f7d9" !important;
+            }.sub-title2 img {
+    display: none!important;
+}
+.th-menu-wrapper.th-body-visible .th-menu-area {
+    background-color: #000000;
+}
+.th-mobile-menu ul li a {
+    color:#ffffff;
+}
+.sticky-wrapper.sticky {
+    background-color: #0c0d0e!important;
+}
+.main-menu a {
+    font-weight: 600!important;
+    font-size: 15px!important;
+}
+/*# sourceURL=rakar-color-schemes-inline-css */

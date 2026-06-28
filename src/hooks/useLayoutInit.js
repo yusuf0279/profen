@@ -1,14 +1,8 @@
 import { useEffect } from 'react'
 import { useLocation } from 'react-router-dom'
-import { injectPageCss } from './elementorCss'
 
 export default function useLayoutInit() {
   const { pathname } = useLocation()
-
-  // Inject page-specific CSS on route change
-  useEffect(() => {
-    injectPageCss(pathname)
-  }, [pathname])
 
   // Re-initialize theme JS on route change
   useEffect(() => {
